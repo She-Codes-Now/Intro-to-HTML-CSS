@@ -1,0 +1,122 @@
+<!-- <!DOCTYPE html> -->
+<html>
+  
+<head>
+
+<title>My First Webpage</title>
+
+<style type="text/css">
+/*
+Multi-line comments are useful so that it is as readable for when you come back in the future or for other people to read and edit quickly. 
+*/
+
+h1, h2 {
+    /*color: orange;*/
+	margin: 10px 0;
+}
+h1{ 
+  /*font-size: 24px; */
+  max-width: 30%;
+  display: inline;
+}
+a {
+	/*text-decoration: none;*/
+	font-size: 15px;
+}
+body {
+  font-family: arial; 
+  font-size: 80%; 
+  width: 100%; 
+  margin: 0; 
+  /*background-color: #eee;*/
+}
+
+
+/* An ID selector has a hash character (“#”) followed by the ID's name */
+#page{ 
+  margin: 20px; 
+ 
+}
+
+/* A class selector has a period (“.”) followed by the class name */
+.image {
+/*background-image: url(https://images-na.ssl-images-amazon.com/images/I/71zA4V70lYL.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+min-height: 360px;*/
+margin-top: 35px;
+}
+
+nav {
+	display: inline-block;
+	/*float: right;*/
+}
+
+nav ul li{
+  display: inline-block;
+}
+nav ul li a {
+	/*padding: 15px;
+	background-color: orange;
+	color: white;
+    box-shadow: 0px 1px 1px #999;*/
+}
+
+/*Pseudo class selectors are CSS selectors with a colon preceding them. They specify a special state of the element selected. For example :hover will apply a style when the user hovers over the element specified by the selector.*/
+nav ul li a:hover{
+	/*background-color: steelblue;*/
+}
+
+.content {
+	/*background-color: white;*/
+	/*padding: 20px;*/
+}
+
+footer {
+	/*border-bottom: 1px #ccc solid;*/
+  	margin: 20px;
+	text-align: right;
+	text-transform: uppercase;
+	color: grey;
+}
+
+
+</style>
+</head>
+
+<!-- webpage content goes in the body -->
+ 
+ <body>
+
+	<!-- The id attribute specifies a unique id for an HTML element that can only be used once. Use the ID when you have a single element on the page that will take that style.  -->
+	<div id="page">
+		<h1>Wooley World</h1>
+
+		<nav>
+			<ul>
+				<li><a href="#">About</a></li>
+				<!-- <li><a href="#">Contact</a></li> -->
+			</ul>	
+		</nav>
+
+		<!-- Use a class as many times as you want when you want to consistently style multiple elements throughout the page. -->
+		<div class="image"></div>
+
+	    <div class="content">
+	        <h2>Hello Yoshi's Wooly World!</h2>
+			<p>Did you know that Nintendo created some collectible Yoshi's revolving around this game's new yarn look? Three colored Yarn Yoshi Amiibo figures have been released in Green, Pink and Blue. You can also scan these Yoshi Amiibos into the game to activate an ability called “Double Yoshi.” This creates a 2nd Yoshi that aids you during your single-player game!</p>
+	    </div> 
+	 <!--    <div class="content">
+	        <h2>Choose Your Character</h2>
+			<p>Would you like a Green, Pink or Blue Yoshi? It's up to you...</p>
+	    </div> -->
+	   
+
+	</div>
+	<footer>
+		Webpage made by [your name]
+	</footer>
+</body>
+
+</html>
