@@ -2,7 +2,8 @@
 This workshop was hosted by SheCodesNow: https://www.meetup.com/She-Codes-Now/ 
 
 Content by: @alequetzalli
-Instructor/Updates by: @mavenofcode (Twitter)
+Instructor/Updates by:
+Sooz Richman [@FavoredFortune](https://github.com/FavoredFortune) also on Twiiter [@mavenofcode](https://twitter.com/MavenofCode)
 
 
 
@@ -12,3 +13,6 @@ For our workshop, we will use Visual Studio Code. Go to https://code.visualstudi
 (If you already have Visual Studio Code installed on your machine, you don't have to install this version.)
 
 Choose the OS X or Windows depending on which operating system you have. 
+
+# Presentation
+To follow along with the presentation or visit resources shown, please see PDF of [presentation](/Users/sooz/VolunteerCode/SheCodesNow/Intro-to-HTML-CSS/Intro-HTML-CSS-SheCodesNow.pdf)
