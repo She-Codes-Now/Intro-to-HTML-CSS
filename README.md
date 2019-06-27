@@ -15,4 +15,4 @@ For our workshop, we will use Visual Studio Code. Go to https://code.visualstudi
 Choose the OS X or Windows depending on which operating system you have. 
 
 # Presentation
-To follow along with the presentation or visit resources shown, please see PDF of [presentation](/Users/sooz/VolunteerCode/SheCodesNow/Intro-to-HTML-CSS/Intro-HTML-CSS-SheCodesNow.pdf)
+To follow along with the presentation or visit resources shown, please see PDF of [presentation](https://github.com/She-Codes-Now/Intro-to-HTML-CSS/blob/master/Intro-HTML-CSS-SheCodesNow.pdf)
