@@ -3,7 +3,7 @@ This workshop was hosted by SheCodesNow: https://www.meetup.com/She-Codes-Now/
 
 Content by: @alequetzalli
 Instructor/Updates by:
-Sooz Richman [@FavoredFortune](https://github.com/FavoredFortune) also on Twiiter [@mavenofcode](https://twitter.com/MavenofCode)
+Natalia Ramirez [@natramirez](https://github.com/natramirez)
 
 
 
